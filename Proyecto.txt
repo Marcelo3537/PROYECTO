@@ -1,0 +1,171 @@
+Título del proyecto
+Casino y Tapas
+
+Integrantes del equipo
+Marcelo Oscar Acuña Borra
+Raul Bañó Torregrosa
+Anna Arenas Martínez
+Dayron Flores
+Izan Marcos Martínez
+
+Problema que resuelve
+El Monopoly clásico, aunque popular, resulta limitado en versiones digitales poco atractivas o que no incluyen elementos innovadores. Nuestro proyecto ofrece una experiencia más moderna, inmersiva y competitiva, integrando un entorno 3D, gestión de usuarios y ranking online.
+
+Público objetivo
+Estudiantes y jóvenes que disfrutan de los juegos de mesa clásicos pero buscan experiencias digitales más actuales.
+
+
+Jugadores casuales que desean competir con amigos en partidas locales.
+
+
+Usuarios interesados en rankings y competencia para medir su desempeño contra otros.
+
+
+
+Funcionalidades principales
+Juego de Monopoly en 3D con hasta 5 jugadores por partida.
+
+
+Gestión de usuarios con registro e inicio de sesión en base de datos.
+
+
+Ranking global con estadísticas de victorias y partidas jugadas.
+
+
+Compra/venta de propiedades, construcción de casas, hoteles y la nueva mecánica de casinos.
+
+
+Sistema de eventos aleatorios (cartas de suerte y comunidad).
+
+
+Condición de victoria: último jugador en pie sin bancarrota.
+
+
+
+Valor añadido / Por qué es diferente
+Introduce la mecánica innovadora de casinos, donde los jugadores pueden ganar o perder dinero mediante apuestas, añadiendo riesgo y emoción al clásico Monopoly.
+
+
+Interfaz en 3D inmersivo, más atractiva que las versiones 2D tradicionales.
+
+
+Sistema de ranking competitivo con estadísticas, lo que convierte el juego en una experiencia social y motivadora.
+
+
+Orientado al aprendizaje y aplicación práctica de POO, bases de datos y entornos gráficos en 3D, lo que lo hace ideal como proyecto educativo y técnico.
+
+
+Enunciado del Proyecto: Monopoly 3D
+Somos una empresa interesada en el desarrollo de un juego de escritorio tipo Monopoly en 3D, orientado a un máximo de 5 jugadores por partida. El objetivo es crear una versión moderna, visualmente atractiva y funcional de este clásico juego de mesa, con un enfoque en la gestión de usuarios y ranking de victorias.
+Requisitos principales
+Juego en 3D
+
+
+El tablero debe representarse en un entorno tridimensional, con casillas, fichas y elementos visuales animados.
+
+
+Cada jugador tendrá su ficha personalizada y podrá moverse automáticamente según el resultado de los dados.
+
+
+Las propiedades, cartas y dinero se gestionarán en pantalla con interfaces claras.
+
+
+Jugadores
+
+
+Máximo de 5 jugadores por partida.
+
+
+Se debe permitir jugar contra otros usuarios reales (multijugador local).
+
+
+Gestión de usuarios (Base de Datos)
+
+
+Los jugadores deberán registrarse e iniciar sesión para poder jugar.
+Cada jugador tendrá un elo interno.
+Los datos almacenados en la base de datos serán:
+
+
+Nombre de usuario
+
+
+Contraseña
+
+
+Email (opcional)
+
+
+Partidas jugadas
+
+
+Partidas ganadas
+
+
+Ranking (Base de Datos)
+
+
+La aplicación debe mostrar un ranking global de usuarios, ordenado por número de victorias.
+
+
+Debe poder consultarse desde un menú independiente.
+
+
+Características adicionales del juego
+
+
+Gestión completa de compra/venta de propiedades, construcción de casas/bares y cobro de alquiler.
+Se podrá cambiar de idioma a Español o Inglés
+Las monedas son pesetas
+
+
+Eventos especiales (cartas de suerte y comunidad).
+20 Cartas de suerte
+20 Cartas de impuestos
+
+
+Nueva mecánica del Casino:
+
+
+Hay solo dos casinos en todo el tablero, y pertenecen a la banca
+
+
+Cuando otro jugador caiga en la casilla con un casino, en vez de pagar un alquiler fijo, deberá apostar:
+
+
+Podrá ganar o perder dinero, según un sistema de azar (por ejemplo, tirada de dados o cálculo probabilístico).
+JUEGOS DENTRO DEL CASINO: Ruleta, Blackjack y Slots.
+
+
+
+Condición de victoria: el último jugador que no haya caído en bancarrota.
+PERSONAJES A SELECCIONAR:
+Abascal
+Jesús
+Una pata de jamón
+Torrente
+Manolo Cocker
+El CID
+
+
+Aspectos técnicos
+
+
+Proyecto de escritorio.
+
+
+Uso de programación orientada a objetos.
+
+
+Base de datos relacional (ejemplo: MySQL o SQLite).
+
+
+Interfaz clara e intuitiva.
+
+
+
+Objetivo final
+Se espera una aplicación estable, atractiva y divertida que combine la jugabilidad del Monopoly clásico con un entorno 3D llamativo, sumando mecánicas innovadoras como el casino, además de una gestión de usuarios moderna y un sistema de ranking competitivo.
+
+
+

@@ -1,0 +1,20 @@
+CASILLAS
+0. Salida. Cada vez que das una vuelta a la manzana ganas 200 pesetas.
+
+CARTAS DE COMUNIDAD
+Ir a la cárcel
+Ir a la casilla de salida
+Ir al casino
+Heredas 100 pesetas
+Manolo filtró tu DNI, tienes que renovarlo. Paga 50 pesetas
+Te has bajado en Pintor Gastón Castelló y te han robado 100 pesetas
+Contratas un inmigrante en situación irregular y te pillan. Paga 200 pesetas
+
+
+DINERO REAL
+Poder meter una tarjeta para comprar gemas dentro del juego
+Poder comprar skins
+
+LIGAS
+Poder tener un rango dentro de una liga, dependiendo cuantas partidas hayas ganado y los puntos que hayas conseguido
+
