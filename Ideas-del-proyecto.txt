@@ -1,5 +1,19 @@
 CASILLAS
 0. Salida. Cada vez que das una vuelta a la manzana ganas 200 pesetas.
+1. Calle San José
+2. Carta de comunidad
+3. Calle Juan Ramón Jiménez
+4. Impuestos
+5. Tram Santa Isabel
+6. Calle Perú
+7. Suerte
+8. Nueva
+9. Calle Pintor Picasso
+10. Carcel
+11. 
+12. Iberdrola
+
+
 
 CARTAS DE COMUNIDAD
 Ir a la cárcel
@@ -31,6 +45,9 @@ VISTAS
 
 De momento solo se tendrá una vista, no se logrará ver bien todas las casillas del tablero, pero después de tirar los dados, se verá una interfaz decente
 en la que se le informará al jugador en que casilla ha caído y los detalles de esta.
+
+
+
 
 
 
