@@ -19,6 +19,16 @@ LIGAS
 Poder tener un rango dentro de una liga, dependiendo cuantas partidas hayas ganado y los puntos que hayas conseguido
 
 
+PILLAR EL TABLERO 3D
+
+EL CASINO TENDRÁ LOS SIGUIENTES JUEGOS:
+Los juegos serán en 2D
+Ruleta y blackjack
+Se tendrá que apostar un mínimo de dinero de 100 pesetas, en caso de que se tenga menos de 100 pesetas se tendrá que apostar todo el dinero que se tenga
+
+
+
+
 
 
 
