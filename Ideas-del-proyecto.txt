@@ -18,3 +18,35 @@ Poder comprar skins
 LIGAS
 Poder tener un rango dentro de una liga, dependiendo cuantas partidas hayas ganado y los puntos que hayas conseguido
 
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+También existe la posibilidad de hacer un casino
+
+DINERO REAL
+Tendría que tener un proceso para ingresar dinero con tarjeta
+
+JUEGOS
+Blackjack, Poker, Ruleta, Hi-Lo, Slots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
