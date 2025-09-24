@@ -27,6 +27,11 @@ Ruleta y blackjack
 Se tendrá que apostar un mínimo de dinero de 100 pesetas, en caso de que se tenga menos de 100 pesetas se tendrá que apostar todo el dinero que se tenga
 
 
+VISTAS
+
+De momento solo se tendrá una vista, no se logrará ver bien todas las casillas del tablero, pero después de tirar los dados, se verá una interfaz decente
+en la que se le informará al jugador en que casilla ha caído y los detalles de esta.
+
 
 
 
