@@ -20,21 +20,6 @@ Poder tener un rango dentro de una liga, dependiendo cuantas partidas hayas gana
 
 
 
-----------------------------------------------------------------------------------------------------------------
-
-
-También existe la posibilidad de hacer un casino
-
-DINERO REAL
-Tendría que tener un proceso para ingresar dinero con tarjeta
-
-JUEGOS
-Blackjack, Poker, Ruleta, Hi-Lo, Slots
-
-
-----------------------------------------------------------------------------------------------------------------
-
-También existe la posibildad de hacer un Clash Royale (solo si pillamos el código por ahí)
 
 
 
