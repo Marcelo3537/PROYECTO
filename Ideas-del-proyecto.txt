@@ -32,6 +32,11 @@ JUEGOS
 Blackjack, Poker, Ruleta, Hi-Lo, Slots
 
 
+----------------------------------------------------------------------------------------------------------------
+
+También existe la posibildad de hacer un Clash Royale (solo si pillamos el código por ahí)
+
+
 
 
 
