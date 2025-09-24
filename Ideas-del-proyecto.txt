@@ -72,6 +72,27 @@ De momento solo se tendrá una vista, no se logrará ver bien todas las casillas
 en la que se le informará al jugador en que casilla ha caído y los detalles de esta.
 
 
+PANTALLAS
+1. Una pantalla en la que haya opción de REGISTRARSE y otra de INICIAR SESIÓN
+
+1.1. Si se elige REGISTRARSE, saldrá una pantalla en la que se pidan algunos datos. Si se logra registrar correctamente, saldrá un mensaje
+en el que pondrá "Has completado correctamente el registro de tu cuenta" y cuando se le de a aceptar, vaya directamente al apartado de la siguiente
+pantalla que es el INICIO DE SESIÓN.
+
+1.2. Si se elige INICIAR SESIÓN, saldrá una pantalla en la que solo se pida correo y contraseña
+
+2. Luego una vez iniciada la sesión, saldrá el menú principal en el que el usuario tendrá la opción de ver el RANKING, CONFIGURACIÓN, o apartado de JUGAR
+
+2.1. Si elige jugar, saldrá otra pantalla en la que tendrá dos opciones ENCONTRAR PARTIDA y CREAR PARTIDA.
+2.1.1. Si elige ENCONTRAR PARTIDA saldrá una pantalla en la que tendrá que introducir un código.
+2.1.2. Si elige CREAR PARTIDA saldrá una pantalla en la que saldrá el lobby de las partidas con los 5 slots para los jugadores (uno ocupado ya por
+el usuario que ha creado la partida) y el código en alguna parte de la pantalla.
+
+2.2. Si elige RANKING, saldrá una pantalla en la que se verá la tabla de los 100 jugadores con más puntos de manera global
+
+2.3. Si elige CONFIGURACIÓN, saldrá una pantalla en la que se verán 3 opciones, SONIDO, IDIOMA
+2.3.1. Si elige SONIDO, saldrán dos barras para manipular el sonido tanto de la música como de los efectos.
+2.3.2. Si elige IDIOMA, saldrá dos opciones, ESPAÑOL e INGLÉS.
 
 
 
